@@ -1,0 +1,8 @@
+﻿  Parallel_programming_lab.2.cpp
+C:\Users\olegk\source\repos\Parallel_programming_lab.2\Parallel_programming_lab.2.cpp(49,43): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  4 of 635 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Parallel_programming_lab.2.vcxproj -> C:\Users\olegk\source\repos\Parallel_programming_lab.2\x64\Release\Parallel_programming_lab.2.exe
